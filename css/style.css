@@ -6,10 +6,13 @@
     box-sizing: border-box;
 }
 
+/* Header
+ */
 header>img{
     width: 100%;
     display: block;
 }
+/* Main settingd */
 
 main{
     min-height: 500px;
@@ -99,6 +102,8 @@ h2{
     padding-top: 15px;
     height: 280px;
 }
+
+/* Position */
 
 .upper-img{
     position: absolute;
