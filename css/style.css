@@ -6,6 +6,14 @@
     box-sizing: border-box;
 }
 
+/* Layout */
+
+body {
+    border: 1px black dashed;
+    width: 512px;
+    background-color:  #14237c;
+}
+
 /* Header
  */
 header>img{
@@ -119,11 +127,4 @@ h2{
 .upper-img>img{
     height: 80px;
     width: 80px;
-}
-
-.bi-bi-cloud-download-fill{
-    height: 40px;
-    width: 40px;
-    display: inline-block;
-    padding-top: 10px;
 }
