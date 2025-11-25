@@ -130,10 +130,26 @@ h2{
     width: 80px;
 }
 
+/* Hover function */
+
 .button-white:hover{
     background-color: gray;
 }
 
 .button-2:hover{
     background-color: #475bce;
+}
+
+/* Gradient */
+
+#grad1{
+    height: 600px;
+    background-color: #1e3ce2;
+    background-image: linear-gradient(to bottom right, #1e3ce2,rgb(94, 84, 211))
+}
+
+#grad2{
+    height: 600px;
+    background-color: #1e3ce2;
+    background-image: linear-gradient(to bottom right, #1e3ce2,rgb(94, 84, 211))
 }
