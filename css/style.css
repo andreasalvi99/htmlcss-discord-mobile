@@ -49,7 +49,7 @@ h1 {
 
 /* Button reset */
 
-button{
+button {
     border: none;
     width: 400px;
     height: 60px;
@@ -59,7 +59,8 @@ button{
     font-size: 20px;
     text-align: center;
     line-height: 60px;
-}
+    cursor: pointer;
+    }
 
 p {
   font-family: "DM Sans", sans-serif;
@@ -129,3 +130,10 @@ h2{
     width: 80px;
 }
 
+.button-white:hover{
+    background-color: gray;
+}
+
+.button-2:hover{
+    background-color: #475bce;
+}
