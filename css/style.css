@@ -32,10 +32,12 @@ div{
     text-align: center;
     height: 300px;
     color: white;
-    width: 400px;
+    width: 350px;
     margin: 0 auto;
     padding-top: 80px;
     margin-bottom: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 h1 {
@@ -52,7 +54,7 @@ h1 {
 
 button {
     border: none;
-    width: 400px;
+    width: 100%;
     height: 60px;
     margin-bottom: 10px;
     border-radius: 10px;
